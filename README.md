@@ -1,2 +1,2 @@
-# Algorithyms
+# Algorithms
 Algorithms
